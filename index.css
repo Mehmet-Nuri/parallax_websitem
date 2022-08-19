@@ -85,13 +85,13 @@ html {
 }
 @media (max-width: 760px) {
   .heading-container {
-    font-size: 2 rem;
+    font-size: 2rem;
   }
   .heading-container_big {
-    padding: 1 rem;
-    border-top-left-radius: 1 rem;
+    padding: 1rem;
+    border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
-    outline: 00.4rem inset purple;
+    outline: 0.4rem inset purple;
     outline-offset: 0.6rem;
     line-height: 2.5rem;
   }
